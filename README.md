@@ -1,7 +1,9 @@
 # DIY System Monitoring Electricity
 ![6](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/2a3f4c81-ea9f-4d17-bae3-80f58e04f137)
+## Introduction
+Click Here -> https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/blob/main/Project%20IoT%20-%20Ath%20Thaareq%20Mahesa.pdf
 
-List Item
+## List Item
 - Esp32 Series
 - Relay Module 4CH 5VDC SPDT Songle (Max Current 10A)
 - Module TTL To RS485
@@ -22,3 +24,4 @@ List Item
 # Testing
 ![Screenshot 2024-02-18 174429](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/02fafcf7-05b9-440e-9c37-02b5636786c1)
 Testing using tool MQTTBOX -> https://mqttbox.softonic-id.com/
+
