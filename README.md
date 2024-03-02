@@ -25,6 +25,8 @@ https://youtu.be/U1rokH99QyI?si=KVYhJXGliBeYPIBG
 ![Screenshot 2024-02-18 174317](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/66d4ba0f-6b72-41ab-897a-39fd17bbde94)
 
 # Testing
+## Node-red Config
+![Screenshot 2024-03-02 110657](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/d20ac0f4-bea5-4188-a145-01613df8519c)
 ## MQTT Publish dan Subscribe 
 ![Screenshot 2024-02-18 174429](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/02fafcf7-05b9-440e-9c37-02b5636786c1)
 Testing using tool MQTTBOX -> https://mqttbox.softonic-id.com/
