@@ -1,7 +1,10 @@
 # DIY System Monitoring Electricity
+System monitoring electricity with telegram bot alert
 ![6](https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/assets/50385294/2a3f4c81-ea9f-4d17-bae3-80f58e04f137)
 ## Introduction
 Click Here -> https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/blob/main/Project%20IoT%20-%20Ath%20Thaareq%20Mahesa.pdf
+## Video
+https://youtu.be/U1rokH99QyI?si=KVYhJXGliBeYPIBG
 
 ## List Item
 - Esp32 Series
