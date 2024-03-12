@@ -5,6 +5,9 @@ System monitoring electricity with telegram bot alert
 Click Here -> https://github.com/eunbiline98/system-monitoring-electricity-pzem-016-/blob/main/Project%20IoT%20-%20Ath%20Thaareq%20Mahesa.pdf
 ## Video
 [![System Monitoring Electricity](https://img.youtube.com/vi/U1rokH99QyI/0.jpg)](https://www.youtube.com/watch?v=U1rokH99QyI "System Monitoring Electricity - Click to Watch!")
+[![Now in Android: 55]          
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] 
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    
 
 ## List Item
 - Esp32 Series
